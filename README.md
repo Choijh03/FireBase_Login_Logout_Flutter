@@ -2,8 +2,12 @@
 
 This is FireBase Login & Logout Tutorial Application built on Flutter 3.7
 
+-------------------------------------------------------------------------------------
+
 default user: jihun@gmail.com
 password: password
+
+-------------------------------------------------------------------------------------
 
 Android View:
 
